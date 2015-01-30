@@ -7,6 +7,8 @@ native iOS and Android apps
 
 This account will serve code examples and tutorials.
 
+## [React Native repository](https://github.com/facebook/react-native)
+
 ## [React.js Conf 2015 Keynote - Introducing React Native](https://www.youtube.com/watch?v=KVZ-P-ZI6W4)
 ## [React.js Conf 2015 Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU)
 
